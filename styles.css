@@ -169,7 +169,7 @@ nav ul li a:hover{
 #projects .project-container .project-item .link a{
     text-decoration: none;
     color: #fff;
-    cursor: wait;
+    cursor: pointer;
 }
 #projects .project-container .project-item button:hover, #projects .project-container .project-item .link:hover{
     background-color: #d73e18;
